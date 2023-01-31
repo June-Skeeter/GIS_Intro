@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Intro to GIS
+title: What is GIS?
 has_children: True
 nav_order: 1
 ---
 
 A workshop by Dr. June Skeeter
-
-# What is GIS?
 
 <div style="overflow: hidden;
   padding-top: 56.25%;

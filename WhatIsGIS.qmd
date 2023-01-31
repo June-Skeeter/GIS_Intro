@@ -1,7 +1,12 @@
 ---
 title: "What is GIS?"
 author: "Dr. June Skeeter"
-format: revealjs
+
+format:
+  revealjs: 
+    navigation-mode: grid
+    controls-layout: bottom-right
+    controls-tutorial: true
 ---
 
 
@@ -51,7 +56,7 @@ GIS is rooted in the capitalist enterprise.  Consequently many of the initial de
 
 ## ArcGIS Pro
 
-<img src="content/images/ESRI_license.png" width="1000">
+<img src="images/ESRI_license.png" width="1000">
 
 ## Open Source GIS
 
