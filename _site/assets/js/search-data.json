@@ -1,0 +1,30 @@
+{"0": {
+    "doc": "Using QGIS?",
+    "title": "Accessing QGIS",
+    "content": "Download the latest version of QGIS here … . ",
+    "url": "/docs/UsingQGIS.html#accessing-qgis",
+    
+    "relUrl": "/docs/UsingQGIS.html#accessing-qgis"
+  },"1": {
+    "doc": "Using QGIS?",
+    "title": "Doing stuff in QGIS",
+    "content": "1 Import Shapefile and check projection . 2 Import points from CSV and project to BC Albers . | Data is in Lat/Long WGS 1984 | . 3 Intersect points with sub divisions . ",
+    "url": "/docs/UsingQGIS.html#doing-stuff-in-qgis",
+    
+    "relUrl": "/docs/UsingQGIS.html#doing-stuff-in-qgis"
+  },"2": {
+    "doc": "Using QGIS?",
+    "title": "Using QGIS?",
+    "content": " ",
+    "url": "/docs/UsingQGIS.html",
+    
+    "relUrl": "/docs/UsingQGIS.html"
+  },"3": {
+    "doc": "What is GIS?",
+    "title": "What is GIS?",
+    "content": "A workshop by Dr. June Skeeter . Your browser does not support iframes. View slides in new tab . Find a QGIS tutorial here . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  }
+}

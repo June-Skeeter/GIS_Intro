@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What is GIS?
-has_children: True
+has_children: False
 nav_order: 1
 ---
 
@@ -10,7 +10,7 @@ A workshop by Dr. June Skeeter
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="WhatIsGIS.html" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="docs/WhatIsGIS.html" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -20,4 +20,7 @@ A workshop by Dr. June Skeeter
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="WhatIsGIS.html" target="_blank">View slides in new tab</a>
+<a href="docs/WhatIsGIS.html" target="_blank">View slides in new tab</a>
+
+
+Find a QGIS tutorial here
